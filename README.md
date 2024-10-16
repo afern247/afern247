@@ -1,5 +1,5 @@
-<h1 align="center"> Hi there 👋 I'm Arturo</h1>
-<h2 align="center"> Mobile and Backend dev.</h2>
+<h1 align="center"> Hi 👋 I'm Arturo</h1>
+<h2 align="center"> Mobile and Backend engineer</h2>
 <p align="center"> ⚡ I love <strong>contributing</strong> to open source projects and <strong>creativing</strong> new things!</p>
 <hr>
 <h3 align="center">Connect with me</h3>
