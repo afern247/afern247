@@ -12,8 +12,7 @@
 </a>-->
 </div>
 
-<hr>
+</br>
 
 ![](https://komarev.com/ghpvc/?username=afern247)
 
-<hr>
