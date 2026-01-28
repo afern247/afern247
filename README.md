@@ -1,13 +1,10 @@
 <h1 align="center"> Hi 👋 I'm Arturo</h1>
 <h2 align="center"> Mobile and Backend engineer</h2>
 <p align="center"> ⚡ I love <strong>contributing</strong> to open source projects and <strong>creativing</strong> new things!</p>
-<hr>
-<h3 align="center">Connect with me</h3>
-<p align="center"><a href="https://www.linkedin.com/in/afern247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isasari" height="30" width="30" /></a>
-</p>
 
-<div align="center"><h3 align="center">Github Stats</h3>
-    <img alt="İsa Sarı GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=afern247&theme=algolia&hide_border=true">
+
+<div align="center">
+<img alt="İsa Sarı GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=afern247&theme=algolia&hide_border=true">
 
 <!-- Most used languages -->
 <!-- <a href="https://github.com/afern247/afern247">
